@@ -11,17 +11,16 @@ By the end of this tutorial, you will:
  - Make scientifically-interesting plots
 
 ### Running the tutorial
-    clone this repository and run `ipython notebook`
+clone this repository and run `ipython notebook`
 
        ```
        git clone https://github.com/jcbird/APOGEE-Data-Tutorial.git
        cd APOGEE-Data-Tutorial
        ipython notebook
        ```
+       in the directory of your choice.
 
-       in the directory of your choice. 
-
-   This will load an ipython console inside your browser. You can then click on the notebook to run it.
+This will load an ipython console inside your browser. You can then click on the notebook to run it.
 
 ### Requirements
 - `python` (version >= 2.7.x, python 3 compatible with very minor modification)
