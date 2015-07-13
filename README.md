@@ -13,7 +13,7 @@ By the end of this tutorial, you will:
 ### Running the tutorial
 1. Get the Notebook
 
-   Pick one of the following:
+   Pick *one* of the following:
     1. direct download of the [APOGEE Data: Zero to Hero](https://github.com/jcbird/APOGEE-Data-Tutorial/blob/master/APOGEE%20Data%20%22Zero%20to%20Hero%22.ipynb) notebook.
     2. clone this repository via
 
@@ -36,5 +36,10 @@ By the end of this tutorial, you will:
 - `ipython`
 - `matplotlib`
 
+### Contributing
+
+Please submit all bug reports, suggestions, and questions by submitting an issue.
+By all means, if you are reading this and would actually like to make pull requests, please do so!
 ### Thanks
+Melissa, Gail, Holtz, Jo, EVERYONE
 
