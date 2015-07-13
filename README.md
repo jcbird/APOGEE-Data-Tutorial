@@ -11,30 +11,23 @@ By the end of this tutorial, you will:
  - Make scientifically-interesting plots
 
 ### Running the tutorial
-1. Get the Notebook
-
-   Pick *one* of the following:
-    1. direct download of the [APOGEE Data: Zero to Hero](https://github.com/jcbird/APOGEE-Data-Tutorial/blob/master/APOGEE%20Data%20%22Zero%20to%20Hero%22.ipynb) notebook.
-    2. clone this repository via
+    clone this repository and run `ipython notebook`
 
        ```
        git clone https://github.com/jcbird/APOGEE-Data-Tutorial.git
+       cd APOGEE-Data-Tutorial
+       ipython notebook
        ```
 
-       in the directory of your choice.
-    3. press the 'Download ZIP' button to the right of this page and unzip its contents.
+       in the directory of your choice. 
 
-2. Open the notebook
-
-   `cd` into the directory containing the `.ipynb` file and type
-   ``` ipython notebook ```
-
-   You can then click on the notebook to run it.
+   This will load an ipython console inside your browser. You can then click on the notebook to run it.
 
 ### Requirements
-- `python 2.7.x`
+- `python` (version >= 2.7.x, python 3 compatible with very minor modification)
 - `ipython`
 - `matplotlib`
+- `numpy`
 
 ### Contributing
 
