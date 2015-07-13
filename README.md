@@ -12,18 +12,18 @@ By the end of this tutorial, you will:
 
 ### Running the tutorial
 1. Get the Notebook
+
    Pick one of the following:
-    - Direct download of the [APOGEE Data: Zero to Hero](https://github.com/jcbird/APOGEE-Data-Tutorial/blob/master/APOGEE%20Data%20%22Zero%20to%20Hero%22.ipynb) notebook.
-    OR
-    - clone this repository via
+    i. direct download of the [APOGEE Data: Zero to Hero](https://github.com/jcbird/APOGEE-Data-Tutorial/blob/master/APOGEE%20Data%20%22Zero%20to%20Hero%22.ipynb) notebook.
+    ii. clone this repository via
     ```
-    $ git clone https://github.com/jcbird/APOGEE-Data-Tutorial.git
+    git clone https://github.com/jcbird/APOGEE-Data-Tutorial.git
     ```
     in the directory of your choice.
-    OR 
-    - Press the 'Download ZIP' button to the right of this page and unzip its contents.
+    iii. press the 'Download ZIP' button to the right of this page and unzip its contents.
 
 2. Open the notebook
+
    `cd` into the directory containing the `.ipynb` file and type
    ```
    ipython notebook
