@@ -19,7 +19,7 @@ cd APOGEE-Data-Tutorial
 ipython notebook
 ```
 
-This will load an ipython console inside your browser. You can then click on the notebook to run it. You may receive a message informing you that the notebook format version will be converted. You can proceed.
+This will load an ipython console inside your browser. Click on *APOGEE Data "Zero to Hero".ipynb* to run the tutorial. The full output (including all plots) can be viewed without running the tutorial by viewing *APOGEE Data "Zero to Hero" Output.ipynb*. You may receive a message informing you that the notebook format version will be converted. Ignore the warning.
 
 ### Requirements
 - `python`  2.7 or later (python3 compatible)
@@ -30,8 +30,8 @@ This will load an ipython console inside your browser. You can then click on the
 
 ### Contributing
 
-Please submit all bug reports, suggestions, and questions by submitting an issue.)
+Please submit all bug reports, suggestions, and questions by submitting an issue.
 By all means, if you are reading this and would actually like to make pull requests, please do so!
 ### Thanks
-Melissa, Gail, Holtz, Jo, EVERYONE
+Melissa, Gail, Holtz, Jo, Carlos, EVERYONE
 
