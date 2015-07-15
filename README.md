@@ -25,15 +25,19 @@ This will load an ipython console inside your browser. Click on *APOGEE_data_tut
 
 You may receive a message informing you that the notebook format version will be converted. If you can dismiss the warning and the notebook loads, you're set. 
 
-<span style="Crimson:">**If you have any issues opening the notebook, see the following section.**</span>
+**If you have any issues opening the notebook, see the following section.**
 
 ### *Ipython Notebook Issues*
 The *APOGEE_data_tutorial.ipynb* is a v4 project Jupyter notebook, the latest version of the Ipython notebook. If you are not familiar with Jupyter notebooks OR you have any issues running the notebook, your first option is to run one of the back-ported notebooks included in the repository. Typing `ipython notebook` will launch the console in your browser. From there, you can run:
 
-|   |    |
-|   |    |
-|*APOGEE_data_tutorial.ver3comp.ipynb*  |A v3 Ipython notebook. Try this first. It should work if your matplotlib/python/ipython installation is reasonably up to date.|
-|*APOGEE_data_tutorial.ver2comp.ipynb* |A v2 Ipython notebook. Use this if both *APOGEE_data_tutorial.ver3comp.ipynb*and *APOGEE_data_tutorial.ipynb* fail. This should be compatible all the way back to Ipython 0.12.|
+
+<dl>
+  <dt>APOGEE_data_tutorial.ver3comp.ipynb</dt>
+  <dd>v3 Ipython notebook. Try this first. It should work if your matplotlib/python/ipython installation is reasonably up to date.</dd>
+
+  <dt>APOGEE_data_tutorial.ver2comp.ipynb</dt>
+  <dd>v2 Ipython notebook. Use this if both <em>APOGEE_data_tutorial.ver3comp.ipynb</em> and <em>APOGEE_data_tutorial.ipynb</em> fail. This should be compatible with Ipython 0.12 and up.</dd>
+</dl>
 
 ### Requirements
 - `python`  2.7 or greater (python3 compatible)
