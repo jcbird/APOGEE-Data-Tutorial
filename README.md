@@ -46,6 +46,9 @@ The *APOGEE_data_tutorial.ipynb* is a v4 project Jupyter notebook, the latest ve
 - `numpy`
 -  `astropy` or `pyfits` for FITS file reading
 
+### Keeping Current
+If you have already cloned the repository, simply type `git clone` in the APOGEE_DATA_TUTORIAL directory to update to the latest version.
+
 ### Contributing
 
 Please submit all bug reports, suggestions, and questions by submitting an issue.
